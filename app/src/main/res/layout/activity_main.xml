@@ -47,6 +47,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:text="@string/section_1"
+                android:onClick="sec1Click"
                 android:textSize="13sp" />
 
             <Button
